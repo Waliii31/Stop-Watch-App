@@ -19,7 +19,7 @@ Our **Stop Watch** application allows users to:
 
 Check out the live demo of the Stop Watch app on Vercel:
 
-[Live Demo](https://stop-watch-app-lilac.vercel.app/)
+[Live Demo](https://vercel.live/link/stop-watch-app-lilac.vercel.app/?via=team-dashboard-project-entity&p=1)
 
 ## Screenshot
 
